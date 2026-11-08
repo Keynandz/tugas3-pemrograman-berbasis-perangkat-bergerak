@@ -9,7 +9,7 @@ TypeScript + Vite**, dengan tampilan yang dibungkus di dalam **frame ponsel
 
 ---
 
-## 👤 Identitas
+## Identitas
 
 | Field         | Nilai                      |
 | ------------- | -------------------------- |
@@ -20,7 +20,7 @@ TypeScript + Vite**, dengan tampilan yang dibungkus di dalam **frame ponsel
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 - Menampilkan daftar cryptocurrency dengan atribut **Rank**, **Name**,
   **Symbol**, dan **Price (USD)**.
@@ -32,7 +32,7 @@ TypeScript + Vite**, dengan tampilan yang dibungkus di dalam **frame ponsel
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - [Vue 3](https://vuejs.org/) (Composition API + `<script setup>`)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -41,7 +41,7 @@ TypeScript + Vite**, dengan tampilan yang dibungkus di dalam **frame ponsel
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 tugas-3-pemrograman-berbasis-perangkat-bergerak/
@@ -76,7 +76,7 @@ tugas-3-pemrograman-berbasis-perangkat-bergerak/
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prasyarat
 
@@ -109,7 +109,7 @@ npm run preview   # pratinjau hasil build
 
 ---
 
-## 📡 Sumber Data (API)
+## Sumber Data (API)
 
 ```
 GET https://api.coinlore.net/api/tickers/
@@ -127,7 +127,7 @@ atribut di antaranya:
 
 ---
 
-## 📝 Catatan
+## Catatan
 
 - Aplikasi ini dibuat untuk keperluan tugas praktikum, dengan fokus pada
   tampilan *mobile-first*.
